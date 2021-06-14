@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kwabenaf
 - 👀 I’m interested in software engneering and software development
-- 🌱 I’m currently learning python, sql and bits of others to see what i like
+- 🌱 I’m currently learning python, C# and SQL. As well as planning to learn HTML/CSS
 - 💞️ I’m looking to collaborate on app making, and other python programs for exp
 - 📫 How to reach me linkedn - Kwabena Fordjour USW
