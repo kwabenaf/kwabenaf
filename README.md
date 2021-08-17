@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kwabena Fordjour
 - 👀 I’m interested in software engneering and software development
-- 🌱 I’m currently learning python, C#, HTML/CSS and SQL.
+- 🌱 I’m currently learning Kotlin, Python, C#, HTML/CSS and SQL.
 - 💞️ I’m looking to collaborate on app making, and other python programs for exp
 - 📫 How to reach me linkedn - Kwabena Fordjour USW
